@@ -25,27 +25,27 @@
 ## 💡 Skills
 
 - **Languages:** C/C++, Python, HTML & CSS
-- **Frameworks/Libraries:** React JS, Deep Learning (CNNs), Machine Learning
+- **Frameworks/Libraries:** Machine Learning, Deep Learning
 - **Tools:** MySQL, Power BI
 
 ---
 
 ## 🚀 Projects
 
-### 🩺 Disease Detection from X-ray Images
-- Developed a deep learning model to identify diseases using X-ray imagery.
-- Designed and implemented preprocessing pipelines and CNN architectures for accurate classification.
-- Integrated robust validation techniques, including confusion matrices and advanced performance metrics.
+### 🩺 X-Ray Diagnostic Intelligence
+- Engineered a sophisticated deep learning solution to detect diseases from X-ray images, enhancing diagnostic accuracy in medical imaging.
+- Achieved precise disease identification through robust image classification, validated by comprehensive performance metrics and confusion matrix analysis.
+- **Technologies Used:** Deep Learning, Convolutional Neural Networks (CNN), Medical Image Preprocessing, Python, Performance Metrics.
 
 ### 🛡️ Driver Impairment Monitoring System
-- Built a real-time driver monitoring system using Python, CNN, and YOLO for drowsiness, fire, and alcohol detection.
-- Integrated facial recognition and deep learning to register drivers and trigger email alerts for unauthorized access.
-- Engineered a security framework combining IoT, computer vision, and AI for continuous monitoring.
+- Developed an advanced real-time driver monitoring system to enhance road safety by detecting driver impairment indicators such as drowsiness, fire hazards, and alcohol presence.
+- Delivered a secure system with facial recognition for driver authentication, real-time incident detection, and automated email alerts for unauthorized access.
+- **Technologies Used:** Python, CNN, YOLO, Facial Recognition, IoT, Computer Vision, AI, Email Integration.
 
-### ❤️ Heart Disease Prediction Using Random Forest
-- Preprocessed and analyzed heart disease data for feature scaling, visualization, and correlation mapping.
-- Trained a Random Forest model with optimized hyperparameters to prevent overfitting.
-- Evaluated model performance using ROC AUC, confusion matrix, and classification reports.
+### ♻️ EcoShare: Community Resource Hub
+- Created a dynamic Streamlit-based platform to facilitate community resource sharing with real-time availability tracking and intelligent search capabilities.
+- Enabled efficient resource discovery through semantic search and predictive analytics, complemented by an interactive admin dashboard for monitoring user engagement and resource trends.
+- **Technologies Used:** Streamlit, SentenceTransformer, FAISS, CatBoost, Plotly, Machine Learning, Python.
 
 ---
 
@@ -62,15 +62,6 @@
 - **FIRST Tech Challenge India**  
   _Field Inspector (27th Feb - 3rd March 2025)_
 
----
-
-## 🌱 Currently Learning
-
-- Advanced Deep Learning Techniques
-- Data Visualization with Power BI
-- Real-world AI & IoT Integration
-
----
 
 <!--
 **AtharvDeshmukh03/AtharvDeshmukh03** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
