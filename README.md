@@ -52,8 +52,8 @@
 ## 📜 Certifications
 
 - [Introduction to Big Data (Coursera)](https://coursera.org/share/8ea9c6bd8a09824cb7e22036e51f665a)
-- [Big Data Integration and Processing (Coursera)](https://coursera.org/share/cdf6f46ebfd70bc79223e7d5f61cd659)
-- [Big Data Modeling and Management Systems (Coursera)](https://coursera.org/share/d8280d7d5469fd5bc6d0953b55fa8881)
+- [Big Data Integration and Processing (Coursera)](https://coursera.org/share/d8280d7d5469fd5bc6d0953b55fa8881)
+- [Big Data Modeling and Management Systems (Coursera)](https://coursera.org/share/cdf6f46ebfd70bc79223e7d5f61cd659)
 
 ---
 
